@@ -11,7 +11,7 @@ Content Cell  | Content Cell
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-![Test image](https://drive.google.com/file/d/1PRWQPX8B7NyGH_kgWY_UqVObOqpZPdJr/view?usp=sharing)
+![Test image](https://gidfon.com/prev/52218.jpg)
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
